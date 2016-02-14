@@ -1,0 +1,65 @@
+/* alpha.qss v.01 a modification of the Fusion style */
+
+QMenu
+{
+    padding: 4px;
+    font-size: 16px;
+}
+
+QMenu::item
+{
+    padding: 2px 25px 2px 20px;
+    border: 1px solid transparent; /* reserve space for selection border */
+}
+
+QMenu::item:selected
+{
+    border-color: darkblue;
+    background: rgba(240, 255, 255, 150);
+}
+
+QMenu::icon:selected
+{
+    border-color: darkblue;
+    background: rgba(255, 255, 255, 255);
+}
+
+QToolBar
+{
+    background-color: rgb(230, 230, 230);
+    spacing: 3px;
+    padding: 4px;
+}
+
+QToolButton
+{
+    background-color: #eeeeee;
+    border-style: outset;
+    border-width: 2px;
+    border-radius: 4px;
+    border-color: beige;
+    font: 12px;
+    padding: 2px;
+}
+
+QToolButton:checked
+{
+    border-color: grey;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #dadbde, stop: 1 #f6f7fa);
+}
+
+QToolButton:hover
+{
+    border-color: grey;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #dadbde, stop: 1 #f6f7fa);
+}
+
+QStatusBar { background-color: azure;}
+
+QMenuBar { background-color: #fefefe; }
+
+QTextEdit { background-color: honeydew; }
+
+QToolTip { background-color: white; }
