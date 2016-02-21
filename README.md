@@ -1,7 +1,8 @@
 # Resources
 Resources for the LibreCAD project.
 
-Files in this repository are released under the  
+
+Contributors are encouraged to release their files under the  
 CC BY 4.0 license or MIT license:  
 http://creativecommons.org/licenses/by/4.0/  
 https://opensource.org/licenses/MIT  
@@ -10,7 +11,9 @@ Authors may also choose to waive their rights
 and release content under the CC0 1.0 license:  
 https://creativecommons.org/publicdomain/zero/1.0/
 
-Please read the license.txt file in each folder for more information.
+Any license that is compatible with GPLv2 is acceptable.
+
+Users may state the license information in license.txt in folders containing the work.
 
 # Instructions
 
