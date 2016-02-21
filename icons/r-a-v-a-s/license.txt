@@ -1,0 +1,6 @@
+license: CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
+name: ravas
+e-mail: ravas@outlook.com
+files:
+- bevel.svg
+- distance_point_to_point.svg
