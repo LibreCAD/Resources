@@ -24,7 +24,8 @@ you want to draw a new line that will start from the point and end at the centre
 vertical line, select 2 Points line and **Snap on Endpoints** then start your line on the point 
 drawn, now de-select **Snap on Endpoints** and select **Snap Middle** and end your line in the 
 middle of the vertical one.
-**NOTE:** you could have selected both Snaps together and it works but this is just an illustration of possibilities.
+
+__NOTE:__ you could have selected both Snaps together and it works but this is just an illustration of possibilities.
 
 ### Copy & Paste:
 just like other programs it allows to copy and paste any element anywhere,
@@ -34,16 +35,17 @@ the command line says: "*specify reference point*", select the centre of the cir
 stage your screen looks as if you have done nothing. Now do either **Edit, Paste** or **Ctrl+V** 
 and start moving you mouse, you see a new circle moving about, click where you want its 
 centre to be located.
-**NOTE:** you can only paste in the layer you copied from, should you need to move the copy
+
+__NOTE:__ you can only paste in the layer you copied from, should you need to move the copy
 to another layer read the following chapter; but you can paste in another drawing, to do so 
 open the new drawing and only then paste.
 
-###Filet
+### Filet:
 Moving entity from one layer to another:
  suppose you have drawn an entity in the 
 wrong layer, no panic you can correct that: with the icons select **Modify and Attributes** this 
 will prompt the Select icon tools, choose one and select the entity to move, either press 
 Enter or click on the double arrow below the **Select** icon tools and in the little window that 
-opens choose the layer needed in the Layer line (the first on top): DONE.
+opens choose the layer needed in the Layer line (the first on top): __DONE__.
 
 
