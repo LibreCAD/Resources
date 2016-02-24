@@ -16,6 +16,7 @@ horizontal icon upper line, the tooll options, they allow to indicate either the
 dimensions or the fillet diameter. It took me a little while to realise they were there.
 Many other icons will prompt tool options that will allow to add properties to the command.
 
+![Bevel Options](images/Bevel-options.jpg)
 ### Use of Snaps:
  while drawing a single element one can change the Snap selection 
 between points. Here is what I mean: draw a line, say vertical, and a point somewhere; 
