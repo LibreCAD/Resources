@@ -35,4 +35,5 @@ Users may state the license information in license.txt in folders containing the
 - https://help.github.com/articles/fork-a-repo/
 - https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 - https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
+- https://help.github.com/articles/syncing-a-fork/
 - https://help.github.com/articles/using-pull-requests/
