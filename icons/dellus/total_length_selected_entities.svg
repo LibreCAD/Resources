@@ -13,7 +13,7 @@
    height="256"
    width="256"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="total_length_selected_entities.svg"
+   sodipodi:docname="total_length_selected_entities_b.svg"
    inkscape:export-filename="K:\icons\totlengthents.png"
    inkscape:export-xdpi="8.4375"
    inkscape:export-ydpi="8.4375">
@@ -89,18 +89,21 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="g4202">
-    <path
-       sodipodi:nodetypes="cccc"
-       inkscape:connector-curvature="0"
-       id="path5147"
-       d="M 32,184 92.209863,156.12172 164,188 224,160"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     id="g4261">
+    <g
+       id="g4258">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:16;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 32,184 92.209863,156.12172 164,188 220.23924,163.76076"
+         id="path5147"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
     <circle
        r="16"
        cy="156.00002"
@@ -154,5 +157,17 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc" />
     </g>
+    <circle
+       style="opacity:0.98000004;fill:#7cfc00;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1"
+       id="circle4226"
+       cx="36.66317"
+       cy="180.44493"
+       r="16" />
+    <circle
+       style="opacity:0.98000004;fill:#7cfc00;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:6;stroke-opacity:1"
+       id="circle4228"
+       cx="219.87408"
+       cy="164.36098"
+       r="16" />
   </g>
 </svg>
